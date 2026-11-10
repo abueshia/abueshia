@@ -23,7 +23,25 @@
 - 💻 **Full-Stack Web Engineer**:
   - **Backend:** High-performance RESTful APIs, Microservices, and Databases using **PHP & Laravel**.
   - **Frontend Web:** Modern, responsive web interfaces and Single Page Applications using **React.js & Core Web Technologies**.
-- 🛠️ Building scalable web platforms across various industries, including tourism marketplaces and medical examination systems.
+- 🛠️ Building scalable platforms across various industries, including medical e-learning platforms and international examination systems.
+
+---
+
+### 🚀 Featured Flagship Project: Dr. Krok Platform
+<p align="center">
+  <a href="https://dr-krok.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Project-Dr._Krok-red?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Dr. Krok" />
+  </a>
+</p>
+
+- **Overview:** A comprehensive, large-scale medical e-learning and e-commerce ecosystem designed specifically for medical, dental, and pharmacy students preparing for professional licensing exams (KROK) in Ukraine and Europe.
+- **My Role & Engineering Contribution:** As the core Backend & System Architect, **I engineered and built the entire Backend infrastructure from scratch**, designing and developing all RESTful APIs consumed by the frontend, custom Admin Dashboards, and robust database structures.
+- **Key System Features (Built by Me):**
+  - ⚙️ **Complete Backend & API Architecture:** Developed all secure, high-performance RESTful APIs powering the platform using **PHP & Laravel**.
+  - 🛡️ **Advanced RBAC & Permissions:** Designed and implemented a comprehensive role-based access control and permissions system for Admins, University Managers, Instructors, and Students.
+  - 🎓 **E-Learning & Lectures Management:** Fully architected the backend logic for structured video courses, live sessions, and test-analysis modules for KROK 1, 2, and 3.
+  - 🛍️ **Integrated E-Commerce & Store:** Built the complete backend and management logic for digital/physical stores handling medical textbooks, booklets, and study tools.
+  - 📊 **Advanced Admin & University Dashboards:** Developed comprehensive backend services and reporting tools enabling university managers to track student progress and performance metrics precisely.
 
 ---
 
