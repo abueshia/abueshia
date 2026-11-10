@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eng-Abdulrahman Abu Eisha</h1>
-<h3 align="center">CEO @ iCode Tech | Full-Stack & Mobile Developer (Laravel • React • React Native)</h3>
+<h3 align="center">CEO @ iCode Tech | Full-Stack & Frontend Web Developer (Laravel • React.js)</h3>
 
 <p align="center">
   <a href="https://github.com/abueshia">
@@ -7,9 +7,9 @@
   </a>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 <p align="center">
@@ -20,10 +20,10 @@
 
 ### 👨‍💼 About Me & Leadership
 - 🚀 **CEO & Founder** at **iCode Tech** — Leading end-to-end software solutions, architectural decisions, and product strategy.
-- 💻 **Full-Stack & Mobile Engineer**:
+- 💻 **Full-Stack Web Engineer**:
   - **Backend:** High-performance RESTful APIs, Microservices, and Databases using **PHP & Laravel**.
-  - **Frontend & Mobile:** Cross-Platform Mobile Apps with **React Native** & Modern Web Interfaces with **React.js**.
-- 🛠️ Building scalable platforms across various industries, including tourism marketplaces and medical examination systems.
+  - **Frontend Web:** Modern, responsive web interfaces and Single Page Applications using **React.js & Core Web Technologies**.
+- 🛠️ Building scalable web platforms across various industries, including tourism marketplaces and medical examination systems.
 
 ---
 
@@ -41,10 +41,10 @@
       </ul>
     </td>
     <td valign="top" width="33%">
-      <h4>📱 Mobile & Frontend</h4>
+      <h4>🌐 Frontend Web</h4>
       <ul>
-        <li>React Native (iOS & Android)</li>
-        <li>React.js / Modern JS (ES6+)</li>
+        <li>React.js (Web Apps)</li>
+        <li>JavaScript (ES6+) / TypeScript</li>
         <li>HTML5 / CSS3 / Tailwind CSS</li>
         <li>State Management (Redux/Context)</li>
       </ul>
