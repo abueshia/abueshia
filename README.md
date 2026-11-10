@@ -78,5 +78,4 @@
 
 <p align="center">
   <b>💼 Let's Connect & Build Something Great Together!</b><br>
-  <i>iCode Tech — Transforming Ideas into Powerful Digital Solutions.</i>
 </p>
